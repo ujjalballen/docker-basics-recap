@@ -16,18 +16,8 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React + DPCLER hey, what i have to do</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <h1>Vite + React + DPCLER hey, what i have to do. </h1>
+     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam magnam nesciunt animi! Ducimus debitis mollitia quos nam tempora voluptatibus possimus.</p>
     </>
   )
 }
