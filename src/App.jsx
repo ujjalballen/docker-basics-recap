@@ -17,6 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Vite + React + DPCLER hey, what i have to do. </h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, doloremque!</p>
      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam magnam nesciunt animi! Ducimus debitis mollitia quos nam tempora voluptatibus possimus.</p>
     </>
   )
